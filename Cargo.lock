@@ -202,7 +202,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "9c8fa7ac9df84000b0238cf497cb2d3056bac2ff2a7d8cf179d2803b4b58571f"
 
 [[package]]
-name = "ttable"
+name = "truth-table-rs"
 version = "0.1.0"
 dependencies = [
  "rustyline",
