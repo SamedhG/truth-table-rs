@@ -1,8 +1,8 @@
 # Truth Table Latex Generator
 
-A simple program to generate the latex for a rust program. Most things are
-non-configurable. Just wrote this for myself. Use it if you are happy with the
-style
+A simple rust program to generate the latex for a simple stateent in
+propositional logic. Most things are non-configurable. Just wrote 
+this for myself. Use it if you are happy with the stylistic choices.
 
 ## Using
 
